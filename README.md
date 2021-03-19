@@ -1,0 +1,2 @@
+# SMoC
+Spidroin Motif Collection
